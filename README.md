@@ -1,0 +1,4 @@
+android-screenshot-post
+=======================
+
+ViewをキャプチャしてHTTPサーバにPOSTするサンプル
